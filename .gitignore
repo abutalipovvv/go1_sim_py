@@ -1,9 +1,9 @@
 /build
-
 /install
-
 /log
-
 /node_modules
-
 *.json
+
+/src/*
+!/src/**/
+!/src/**/*
